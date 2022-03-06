@@ -26,6 +26,3 @@ while cont:
     if input("Deseja continuar? ") != 's':
         cont = False
 
-
-- novalinha
-
